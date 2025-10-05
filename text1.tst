@@ -1,1 +1,1 @@
-Created text1.tst file
+Changed text1.tst file
